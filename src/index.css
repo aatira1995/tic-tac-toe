@@ -1,0 +1,31 @@
+body{
+  font: 14px "Century Gothic", Futura, sans-serif;
+  margin: 20px;
+  background: burlywood;
+}
+
+/*Constants*/
+.ml-20 {margin-left: 20px;}
+.mr-20 {margin-right: 20px;}
+.mt-20 {margin-top: 20px;}
+.mb-20 {margin-bottom: 20px;}
+
+.ml-10 {margin-left: 10px;}
+.mr-10 {margin-right: 10px;}
+.mb-10 {margin-bottom: 10px;}
+.mt-10 {margin-top: 10px;}
+
+/*display*/
+.text-center {text-align: center;}
+.text-inbk {text-align: inline-block;}
+.text-in {text-align: inline;}
+.text-blk {text-align: block !important;}
+
+/*Font size*/
+.fs-10{ font-size: 10px; }
+.fs-20{ font-size: 20px; }
+.fs-30{ font-size: 30px; }
+.fs-40{ font-size: 40px; }
+.fs-50{ font-size: 50px; }
+.fs-60{ font-size: 60px; }
+.fs-70{ font-size: 70px; }

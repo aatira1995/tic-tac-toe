@@ -1,0 +1,20 @@
+.errorMessage {
+    color: red;
+}
+
+.label{
+    color: rgba(26, 70, 140, 0.9);
+}
+
+.message {
+    color: salmon;
+}
+
+.loginButton {
+    background-color: blue;
+    color: white;
+    width: 10%;
+    height: 40px;
+    border: 1px solid transparent;
+    border-radius: 20px;
+}
